@@ -1,2 +1,2 @@
 # Hello-World
-Academic Purpose
+Academic
